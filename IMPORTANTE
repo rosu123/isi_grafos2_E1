@@ -1,0 +1,2 @@
+Como se puede ver, en Travis uno de los seis test falla. Dejarlo así (sin corregir) es intencionado
+para que se vea que se ha encontrado un fallo utilizando tests.
