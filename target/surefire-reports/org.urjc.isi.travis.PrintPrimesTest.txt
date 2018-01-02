@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: org.urjc.isi.travis.PrintPrimesTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.035 sec <<< FAILURE! - in org.urjc.isi.travis.PrintPrimesTest
+t5(org.urjc.isi.travis.PrintPrimesTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]> but was:<[Prime: 2
+]>
+	at org.junit.Assert.assertEquals(Assert.java:125)
+	at org.junit.Assert.assertEquals(Assert.java:147)
+	at org.urjc.isi.travis.PrintPrimesTest.t5(PrintPrimesTest.java:68)
+
